@@ -3,7 +3,7 @@ title_left    : "Programming"
 title_right   : "Context" # default: ""
 description   : "Blog where we talk about programming languages."
 keywords      : "download, SEO, blog, web, minimalist"
-url           : https://sonulohani.github.io # site url
+url           : https://programmingcontext.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
